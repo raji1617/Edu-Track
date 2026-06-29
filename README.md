@@ -88,9 +88,7 @@ Provides confirmation before logging out or exiting the application.
 - Email Notifications
 - Dark Mode Support
 
--
-
-
+---
 
 1. Introduction
 
