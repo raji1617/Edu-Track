@@ -1,5 +1,5 @@
-🎓** EduManage – Education Management System**
-
+🎓**** EduManage – Education Management System**
+**
 📖 **Overview**
 
 EduManage is a responsive web-based Education Management System developed using HTML5, CSS3, and JavaScript. The application provides an easy-to-use interface for managing educational activities such as course management, student registration, result processing, and result viewing through a modern dashboard.
@@ -54,32 +54,30 @@ EduManage/
 
 📊 Dashboard
 
-Displays an overview of the Education Management System, including statistics for courses, students, and processed results.
+   Displays an overview of the Education Management System, including statistics for courses, students, and
+   processed results.
 
 📚 Course Management
 
-Allows administrators to add, edit, delete, and manage course information.
+   Allows administrators to add, edit, delete, and manage course information.
 
 👨‍🎓 Student Management
 
-Enables registration and management of student records with course assignments.
+   Enables registration and management of student records with course assignments.
 
 📝 Result Management
 
-Stores examination scores, grades, and remarks for each student.
+   Stores examination scores, grades, and remarks for each student.
 
 🔍 View Results
 
-Allows searching student results using Student ID or Name.
+    Allows searching student results using Student ID or Name.
 
 🚪 Logout & Exit
 
-Provides confirmation before logging out or exiting the application.
+   Provides confirmation before logging out or exiting the application.
 
 ---
-You can use the following headings with professional emojis in your README or project documentation:
-
-🎓 EduManage – Education Management System
 
 📖  **Introduction**
 
@@ -91,13 +89,13 @@ EduManage is a responsive Education Management System developed using HTML5, CSS
 
 The primary objectives of this project are:
 
-- ✅ Develop a responsive web-based Education Management System.
-- ✅ Manage course information efficiently.
-- ✅ Register and maintain student records.
-- ✅ Record and manage student examination results.
-- ✅ Provide quick search and result viewing functionality.
-- ✅ Improve data organization through a user-friendly interface.
-- ✅ Demonstrate CRUD operations using JavaScript.
+ - ✅ Develop a responsive web-based Education Management System.
+ - ✅ Manage course information efficiently.
+ - ✅ Register and maintain student records.
+ - ✅ Record and manage student examination results.
+ - ✅ Provide quick search and result viewing functionality.
+ - ✅ Improve data organization through a user-friendly interface.
+ - ✅ Demonstrate CRUD operations using JavaScript.
 
 ---
 
@@ -124,9 +122,9 @@ The primary objectives of this project are:
 
 🔹 Architecture Description
 
-- 🖥️ Presentation Layer: HTML5 and CSS3 create the responsive user interface.
-- ⚙️ Application Layer: JavaScript manages navigation, validation, CRUD operations, and dynamic updates.
-- 💾 Data Layer: JavaScript arrays temporarily store course, student, and result information.
+   - 🖥️ Presentation Layer: HTML5 and CSS3 create the responsive user interface.
+   - ⚙️ Application Layer: JavaScript manages navigation, validation, CRUD operations, and dynamic updates.
+   - 💾 Data Layer: JavaScript arrays temporarily store course, student, and result information.
 
 ---
 
