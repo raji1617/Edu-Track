@@ -1,13 +1,13 @@
-🎓 EduManage – Education Management System
+🎓** EduManage – Education Management System**
 
-📖 Overview
+📖 **Overview**
 
 EduManage is a responsive web-based Education Management System developed using HTML5, CSS3, and JavaScript. The application provides an easy-to-use interface for managing educational activities such as course management, student registration, result processing, and result viewing through a modern dashboard.
 The project demonstrates front-end web development concepts, dynamic data handling, CRUD operations, responsive design, and user-friendly navigation.
 
 ---
 
-🚀 Features
+🚀 **Features**
 
 - 📊 Dashboard with system overview
 - 📚 Course Management (Add, Edit, Delete)
@@ -21,7 +21,7 @@ The project demonstrates front-end web development concepts, dynamic data handli
 
 ---
 
-🛠️ Technologies Used
+🛠️ **Technologies Used**
 
 - HTML5 – Application structure
 - CSS3 – Styling and responsive design
@@ -29,7 +29,7 @@ The project demonstrates front-end web development concepts, dynamic data handli
 
 ---
 
-📂 Project Structure
+📂 **Project Structure**
 
 EduManage/
 │── index.html
@@ -50,7 +50,7 @@ EduManage/
 
 ---
 
-📋 Modules
+📋** Modules**
 
 📊 Dashboard
 
@@ -81,13 +81,13 @@ You can use the following headings with professional emojis in your README or pr
 
 🎓 EduManage – Education Management System
 
-📖 1. Introduction
+📖  **Introduction**
 
 EduManage is a responsive Education Management System developed using HTML5, CSS3, and JavaScript. The application is designed to simplify educational administration by providing a centralized platform for managing courses, student records, and examination results. It features a modern dashboard, intuitive navigation, and responsive design, making it easy to use on desktops, tablets, and mobile devices.
 
 ---
 
-🎯 2. Objectives
+🎯 **Objectives**
 
 The primary objectives of this project are:
 
@@ -101,7 +101,7 @@ The primary objectives of this project are:
 
 ---
 
-🏗️ 3. System Architecture
+🏗️ **System Architecture**
 
                 User
                   │
@@ -130,40 +130,40 @@ The primary objectives of this project are:
 
 ---
 
-🗄️ 4. Database Design
+🗄️**Database Design**
 
 The project uses JavaScript arrays as a temporary data store.
 
-📚 Course Table
+   📚 Course Table
+    
+    Field| Description
+    Course ID| Unique course identifier
+    Course Name| Name of the course
+    Duration| Course duration
+    Fee| Course fee
 
-Field| Description
-Course ID| Unique course identifier
-Course Name| Name of the course
-Duration| Course duration
-Fee| Course fee
+  👨‍🎓 Student Table
 
-👨‍🎓 Student Table
+   Field| Description
+   Student ID| Unique student identifier
+   Name| Student name
+   Email| Student email
+   Phone| Student contact number
+   Course| Assigned course
 
-Field| Description
-Student ID| Unique student identifier
-Name| Student name
-Email| Student email
-Phone| Student contact number
-Course| Assigned course
+  📝 Result Table
 
-📝 Result Table
-
-Field| Description
-Student ID| Student identifier
-Student Name| Name of the student
-Course| Course ID
-Score| Examination score
-Grade| Performance grade
-Remarks| Faculty remarks
+   Field| Description
+   Student ID| Student identifier
+   Student Name| Name of the student
+   Course| Course ID
+   Score| Examination score
+   Grade| Performance grade
+   Remarks| Faculty remarks
 
 ---
 
-🔄 5. Project Flow
+🔄** Project Flow**
 
 Start
    │
@@ -194,6 +194,6 @@ Start
 
 ---
 
-✅ 6. Conclusion
+✅ **Conclusion**
 
 EduManage is a responsive and user-friendly Education Management System that demonstrates the practical implementation of HTML5, CSS3, and JavaScript. It enables efficient management of courses, students, and examination results through an intuitive dashboard and organized modules. The project showcases front-end web development skills, CRUD operations, dynamic data handling, and responsive design. Future enhancements such as database integration, user authentication, attendance tracking, and report generation can make the system suitable for real-world educational institutions.
